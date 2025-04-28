@@ -38,6 +38,11 @@ Boost Pickup | Floating snowflake/star |
 Falling Obstacles | Ice chunks or snow rocks (falling cubes/spheres from top) | 
 
 
+#Member | Task
+
+Member1: Player Controller | Movement, Jump, Boost, Collision Detection
+Member2: Environment & Obstacles | Ground, Trees, Logs, Rocks, Falling Obstacles System
+Member3: UI & Camera | Score Display, Camera Switching, Game Over screen, Restart/Exit Handling
 
 
 
